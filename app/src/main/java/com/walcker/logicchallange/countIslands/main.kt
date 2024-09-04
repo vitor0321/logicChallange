@@ -4,8 +4,8 @@ fun main() {
     countIslands(
         mutableListOf(
             mutableListOf(1, 0, 0, 1, 0, 0, 0, 1),
-            mutableListOf(0, 0, 1, 0, 1),
-            mutableListOf(0, 0, 1, 1, 0),
+            mutableListOf(1, 0, 1, 0, 1),
+            mutableListOf(1, 0, 1, 1, 0),
             mutableListOf(0, 0, 0, 0, 0),
             mutableListOf(1, 0, 1, 0, 1),
 
